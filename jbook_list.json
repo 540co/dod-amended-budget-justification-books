@@ -1,0 +1,38 @@
+{
+  "PROCUREMENT_AND_RDTE": {
+    "2015": {
+      "DEFENSE_MASTER_JBOOK": "http://comptroller.defense.gov/Portals/45/documents/defbudget/fy2015/budget_justification/pdfs/amendment/02_Procurement/PROC_MasterJustificationBook_Defense-Wide_PBAmended_2015.pdf",
+      "DISA":"http://comptroller.defense.gov/Portals/45/documents/defbudget/fy2015/budget_justification/pdfs/amendment/02_Procurement/PROC_MasterJustificationBook_DISA_PBAmended%202015_OCO_06-24-14.pdf",
+      "JUONF":"http://comptroller.defense.gov/Portals/45/documents/defbudget/fy2015/budget_justification/pdfs/amendment/02_Procurement/PROC_MasterJustificationBook_Joint_Urgent_Operational_Needs_Fund_PBAmended_2015_1.pdf",
+      "SOCOM":"http://comptroller.defense.gov/Portals/45/documents/defbudget/fy2015/budget_justification/pdfs/amendment/02_Procurement/PROC_MasterJustificationBook_USSOCOM_PB_15-OCO.pdf",
+      
+      "ARMY": "http://asafm.army.mil/Documents/OfficeDocuments/Budget/budgetmaterials/fy15/ABE//rda.pdf",
+      
+      "AIRFORCE_AIRCRAFT": "http://www.saffm.hq.af.mil/shared/media/document/AFD-140709-032.pdf",
+      "AIRFORCE_AMMO": "http://www.saffm.hq.af.mil/shared/media/document/AFD-140709-032.pdf",
+      "AIRFORCE_MISSLE": "http://www.saffm.hq.af.mil/shared/media/document/AFD-140709-030.pdf",
+      "AIRFORCE_OTHER": "http://www.saffm.hq.af.mil/shared/media/document/AFD-140709-026.pdf",
+      
+      "NAVY": "http://www.finance.hq.navy.mil/FMB/15pres/FY15_OCO_Book.pdf"
+      
+    },
+    "2014": {
+      "DEFENSE_MASTER_JBOOK":"http://comptroller.defense.gov/Portals/45/documents/defbudget/fy2014/budget_justification/pdf/amendment/02_Procurement/PB14_Procurement_Master_Justification_Book.pdf",
+      "DISA":"http://comptroller.defense.gov/Portals/45/documents/defbudget/fy2014/budget_justification/pdf/amendment/02_Procurement/Defense_Information_Systems_Agency_PB_2014_Amended.pdf",
+      "JUONF":"http://comptroller.defense.gov/Portals/45/documents/defbudget/fy2014/budget_justification/pdf/amendment/02_Procurement/Joint_Urgent_Operational_Needs_Fund_PBAmended_2014.pdf",
+      "SOCOM":"http://comptroller.defense.gov/Portals/45/documents/defbudget/fy2014/budget_justification/pdf/amendment/02_Procurement/United_States_Special_Operations_Command_PB_2014_Amended.pdf",
+      
+      "ARMY": "http://asafm.army.mil/Documents/OfficeDocuments/Budget/BudgetMaterials/FY14/OCO//rda.pdf",
+      
+      "AIRFORCE_AIRCRAFT": "http://www.saffm.hq.af.mil/shared/media/document/AFD-130521-046.pdf",
+      "AIRFORCE_AMMO": "http://www.saffm.hq.af.mil/shared/media/document/AFD-130521-047.pdf",
+      "AIRFORCE_MISSLE": "http://www.saffm.hq.af.mil/shared/media/document/AFD-130521-049.pdf",
+      "AIRFORCE_OTHER": "http://www.saffm.hq.af.mil/shared/media/document/AFD-130521-051.pdf",
+      
+      "NAVY": "http://www.finance.hq.navy.mil/fmb/14pres/FY14_OCO_Book.pdf"
+    },
+    "2013": {
+      
+    }
+  }
+}
